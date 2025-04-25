@@ -38,13 +38,13 @@ A modern web application that allows users to create and customize their persona
 ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/HomePage.png)
+![Home Page](./HomePage.png)
 
 ### Edit Portfolio Page
-![Edit Portfolio Page](./screenshots/EditPortfolioPage.png)
+![Edit Portfolio Page](./EditPortfolioPage.png)
 
 ### Preview Page
-![Preview Page](./screenshots/PreviewPage.png)
+![Preview Page](./PreviewPage.png)
 
 ## How to Use
 
