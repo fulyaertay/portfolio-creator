@@ -2,7 +2,7 @@
 
 A modern web application that allows users to create and customize their personal portfolio websites without writing any code.
 ## [Website Live Link here](https://portfolio-creator-web-app.vercel.app/)
-## [Mobile App Live Link](https://portfolio-builder-mobil-app.netlify.app/)
+## [For Mobile App ](https://github.com/fulyaertay/project-builder-mobile-app)
 ## Features
 
 ### 1. Personal Information Management
